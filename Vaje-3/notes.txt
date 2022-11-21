@@ -1,0 +1,6 @@
+
+
+- genetski algoritem (zanimivo)
+- peer 2 peer - rabi samo porazdeljeno
+
+- 14 peer 2 peer autherative multiplayer game architecture
